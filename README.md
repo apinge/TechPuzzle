@@ -1,2 +1,3 @@
-# asr_tts_learning
-An exploration of ASR and TTS technologies with organized learning resources
+# aTechPuzzle
+A collection of diverse technical experiments and small projects.
+
